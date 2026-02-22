@@ -1,5 +1,6 @@
 
 ## Model Summary
+This file contains a summary of the CNN Model developed using pytorch for deployement on PYNQ Z2
 
 ### **Architecture Overview:**
 The model is a lightweight Convolutional Neural Network (CNN) designed for CIFAR-10 image classification (32×32 RGB images).
