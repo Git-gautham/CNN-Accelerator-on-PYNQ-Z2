@@ -62,5 +62,5 @@ Results based on a 100-image test batch:
 * **Gautham P Nair**
 * **Lakshmi Nair**
 * *Govt. Model Engineering College, Thrikkakara*
-
+* Mentor : Dr Jagadeesh Kumar P
 ---
