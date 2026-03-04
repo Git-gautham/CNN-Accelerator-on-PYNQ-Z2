@@ -1,0 +1,53 @@
+[
+  {
+    "directory": "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls",
+    "arguments": [
+      "C:\\Xilinx\\Vitis\\2024.2\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=C:\\Xilinx\\Vitis\\2024.2\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls",
+      "-hls-syn-headers-dir=C:\\Xilinx\\Vitis\\2024.2\\common\\technology\\autopilot",
+      "-fhlstoplevel=cnn_top",
+      "-c",
+      "C:\\Users\\gauth\\Documents\\HLS_vitis\\simple_cnn_hls\\cnn_weights_hls.cpp"
+    ],
+    "file": "C:\\Users\\gauth\\Documents\\HLS_vitis\\simple_cnn_hls\\cnn_weights_hls.cpp"
+  },
+  {
+    "directory": "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls",
+    "arguments": [
+      "C:\\Xilinx\\Vitis\\2024.2\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=C:\\Xilinx\\Vitis\\2024.2\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls",
+      "-hls-syn-headers-dir=C:\\Xilinx\\Vitis\\2024.2\\common\\technology\\autopilot",
+      "-fhlstoplevel=cnn_top",
+      "-c",
+      "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls\\cnn_top.cpp"
+    ],
+    "file": "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls\\cnn_top.cpp"
+  },
+  {
+    "directory": "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls",
+    "arguments": [
+      "C:\\Xilinx\\Vitis\\2024.2\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=C:\\Xilinx\\Vitis\\2024.2\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls",
+      "-hls-syn-headers-dir=C:\\Xilinx\\Vitis\\2024.2\\common\\technology\\autopilot",
+      "-fhlstoplevel=cnn_top",
+      "-c",
+      "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls\\cnn_weights_hls.cpp"
+    ],
+    "file": "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls\\cnn_weights_hls.cpp"
+  },
+  {
+    "directory": "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls",
+    "arguments": [
+      "C:\\Xilinx\\Vitis\\2024.2\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=C:\\Xilinx\\Vitis\\2024.2\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls-tb",
+      "-hls-sim-headers-dir=C:\\Xilinx\\Vitis\\2024.2\\include",
+      "-c",
+      "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls\\tb_cnn.cpp"
+    ],
+    "file": "C:\\Users\\gauth\\Documents\\ARM_competition\\HLS_vitis\\simple_cnn_hls\\tb_cnn.cpp"
+  }
+]
