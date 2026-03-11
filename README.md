@@ -44,6 +44,7 @@ The system is divided into two main domains:
 ## 📊 Performance Comparison (CIFAR-10)
 
 Results based on a 100-image test batch:
+
 <img width="606" height="259" alt="image" src="https://github.com/user-attachments/assets/016d15c2-2f27-48b3-981d-c235bc92adac" />
 
 ## 🛠️ How to Run
